@@ -6,6 +6,8 @@ public class Sbi implements interest {
 		Sbi s=new Sbi();
 		s.rate_of_interest();
 	}
+	
+	
 
 	@Override
 	public void rate_of_interest() {
